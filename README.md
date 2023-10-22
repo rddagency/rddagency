@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width= "700" src="https://scontent.flhe7-2.fna.fbcdn.net/v/t39.30808-6/373743433_122096228582034162_6231445804902629050_n.png?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_D7k9eCMCswAX-ggF6D&_nc_ht=scontent.flhe7-2.fna&oh=00_AfBMj3qEDABtYx4q6I-2ol6c6TyHwTrHNJUMh7A6VSiHpg&oe=6539F807"  />
+  <img height="250" width= "1200" src="https://github.com/rddagency/addagency/blob/main/rddagency%20cover.png?raw=true"  />
 </div>
 
 ###
